@@ -1,5 +1,5 @@
 # Updated ;)
-On 15th July, 01:01PM GMT+6
+On 8th August, 09:03PM GMT+6
 # Caution!!!
 Before you create one, i need to remind you that shared drive is not secured!
 So stay away from keeping personal data on shared drives.
@@ -10,3 +10,5 @@ where general(non buisness) drive space is only 15GB!
 [![Deploy](https://raw.githubusercontent.com/devillD/Shared-Drive-Creator/master/Shared-Drive-Creator.png)](https://td.msgsuite.workers.dev/)
 
 => https://team.gdrive.vip/
+=> https://td.msgsuite.workers.dev/
+=> https://onedrive.gdrive.vip/ (OneDrive 5TB)
