@@ -1,7 +1,7 @@
 # Updated ;)
 On 23th February 2022, 10:30PM GMT+6
 # Caution!!!
-Before you create one, i need to remind you that shared drive is not secured!
+Before you create one, i need to remind you that, the shared drive you gonna creat is accessable by the admin of that Organization!
 So stay away from keeping personal data on shared drives.
 # Benefit of having Shared drive
 Shared drive provides huge amount of space, almost 400,000 files and folders.
