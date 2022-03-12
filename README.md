@@ -1,6 +1,6 @@
 # Updated ;)
 🕟 On 12th March 2022, 07:50PM GMT+6
-# ⚠️Caution⚠️
+# ⚠Caution⚠
 Before you create one, i need to remind you that, the shared drive you gonna creat is accessable by the admin of that Organization!
 
 So stay away from keeping personal data on shared drives.
