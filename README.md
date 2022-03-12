@@ -10,7 +10,7 @@ where general(non buisness) drive space is only 15GB!
 
 More Info: https://support.google.com/a/answer/7338880?hl=en
 # To generate a shared drive, Click on the image given bellow
-[![Deploy](https://cdn.jsdelivr.net/gh/devillD/Shared-Drive-Creator/Shared-Drive-Creator.png)](https://gen.abir.ga/)
+[![Deploy](https://cdn.jsdelivr.net/gh/devillD/Shared-Drive-Creator/Shared-Drive-Creator.png)](https://gen.xux.workers.dev/)
 
 => https://gen.abir.ga/
 
