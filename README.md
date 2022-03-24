@@ -1,5 +1,5 @@
 # Updated ;)
-🕟 On 19th March 2022, 01:12PM GMT+6
+🕟 On 24th March 2022, 03:36PM GMT+6
 # Caution⚠
 Before you create one, i need to remind you that, the shared drive you gonna create is accessable by the admin of that Organization!
 
@@ -10,6 +10,6 @@ where general(non buisness) drive space is only 15GB!
 
 More Info: https://support.google.com/a/answer/7338880?hl=en
 # To generate a shared drive, Click on the image given bellow
-[![Deploy](https://cdn.jsdelivr.net/gh/devillD/Shared-Drive-Creator/Shared-Drive-Creator.png)](https://td.hashhackers.win/)
+[![Deploy](https://cdn.jsdelivr.net/gh/devillD/Shared-Drive-Creator/Shared-Drive-Creator.png)](https://msgsuite.eu.org)
 
-=> https://td.msgsuite.workers.dev
+=> https://td.hashhackers.win
