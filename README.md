@@ -1,5 +1,5 @@
 # Updated ;)
-🕟 On 2nd April 2022, 11:57PM GMT+6
+🕟 On 2nd April 2022, 11:59PM GMT+6
 # Caution⚠
 Before you create one, i need to remind you that, the shared drive you gonna create is accessable by the admin of that Organization!
 
@@ -16,4 +16,4 @@ More Info: https://support.google.com/a/answer/7338880?hl=en
 
 # BY BOT
 
-[![Deploy](https://flowxo.com/wp-content/uploads/2021/03/Telegram-Logo-512x512.png)](https://t.me/MSGuite_SD_Creator_Bot)
+[![Deploy](https://img.favpng.com/5/18/6/computer-icons-portable-network-graphics-telegram-business-partnership-png-favpng-M9W1WNYeCbMkFSg4vXRfatcYp_t.jpg)](https://t.me/MSGuite_SD_Creator_Bot)
