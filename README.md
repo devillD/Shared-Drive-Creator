@@ -1,5 +1,5 @@
 # Updated ;)
-🕟 On 13th April 2022, 12:53PM GMT+6
+🕟 On 13th April 2022, 12:57PM GMT+6
 # Caution⚠
 Before you create one, i need to remind you that, the shared drive you gonna create is accessable by the admin of that Organization!
 
@@ -11,6 +11,9 @@ Shared drive provides huge amount of space, almost 400,000 files and folders.
 where general(non buisness) drive space is only 15GB!
 
 More Info: https://support.google.com/a/answer/7338880
+# Shared drive topics:
+
+https://support.google.com/a/topic/7337266
 # Methods:
 
 ## BY WEBSITE
